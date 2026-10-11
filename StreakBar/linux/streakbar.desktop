@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=StreakBar
+Comment=Lightweight desktop streak and task tracker
+Exec=streakbar
+Icon=streakbar
+Terminal=false
+Categories=Utility;

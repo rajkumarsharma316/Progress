@@ -10,6 +10,8 @@
     <application
         android:allowBackup="true"
         android:label="StreakBar"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
         android:theme="@style/Theme.StreakBar"
         android:usesCleartextTraffic="true"
         android:supportsRtl="true">

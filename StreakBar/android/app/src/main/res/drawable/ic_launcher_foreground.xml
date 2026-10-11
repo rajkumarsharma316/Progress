@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Flame -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M54,24 C50,34 42,42 42,56 C42,65 47,72 54,76 C61,72 66,65 66,56 C66,48 61,40 58,35 C57,41 53,46 51,46 C50,46 49,44 50,40 C52,33 54,24 54,24 Z" />
+    <!-- Inner Core Flame (Glow) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,48 C51,54 48,58 48,64 C48,68 51,72 54,74 C57,72 60,68 60,64 C60,59 57,55 55,52 C54.5,55 53,58 52,58 C51.5,58 51,57 51.5,55 C52.5,52 54,48 54,48 Z" />
+</vector>

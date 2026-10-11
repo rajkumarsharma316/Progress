@@ -5,6 +5,7 @@ obj/
 *.obj
 *.pdb
 *.ilk
+*.res
 
 # Executables & Temporary Scripts
 *.exe
