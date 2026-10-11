@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.StreakBar" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/red_primary</item>
+        <item name="android:navigationBarColor">@color/obsidian</item>
+        <item name="android:statusBarColor">@color/obsidian</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

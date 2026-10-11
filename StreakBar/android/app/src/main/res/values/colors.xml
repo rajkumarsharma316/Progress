@@ -1,0 +1,14 @@
+<resources>
+    <color name="obsidian">#0D080A</color>
+    <color name="obsidian_card">#15090C</color>
+    <color name="red_primary">#EF4444</color>
+    <color name="red_dark">#991B1B</color>
+    <color name="red_border">#4A1218</color>
+    <color name="red_wine">#2B0E13</color>
+    <color name="white">#F8FAFC</color>
+    <color name="muted">#71717A</color>
+
+    <!-- Theme aliases -->
+    <color name="teal">#EF4444</color>
+    <color name="night">#0D080A</color>
+</resources>

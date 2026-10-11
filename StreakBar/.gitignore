@@ -1,0 +1,36 @@
+# Build Artifacts
+bin/
+obj/
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Executables & Temporary Scripts
+*.exe
+reset.ps1
+sync_temp.json
+
+# Visual Studio & IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Android & Gradle
+.gradle/
+.kotlin/
+build/
+**/build/
+local.properties
+.idea/
+*.iml
+.cxx/
+captures/
+*.apk
+*.aab
+
+# OS Generated
+Thumbs.db
+desktop.ini
+.DS_Store
